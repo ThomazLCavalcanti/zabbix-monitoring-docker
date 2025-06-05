@@ -1,0 +1,16 @@
+$ cat .gitignore 
+.env
+*.log
+logs/
+log/
+*.tmp
+*.swp
+*.swo
+*.bak
+*.old
+*.pid
+.DS_Store
+Thumbs.db
+*.sock
+secrets/
+credentials/
